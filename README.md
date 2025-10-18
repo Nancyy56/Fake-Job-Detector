@@ -87,3 +87,11 @@ Each record is labeled as:
    ```bash
    git clone https://github.com/yourusername/Fake-Job-Detector.git
    cd Fake-Job-Detector
+
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the Notebook**
+   ```bash
+   jupyter notebook fake_job_detector.ipynb
