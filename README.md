@@ -60,13 +60,6 @@ Each record is labeled as:
 
 ---
 
-### 📊 Visual Insights  
-- Fraudulent postings by **employment type**  
-- Fraudulent postings by **industry and location**  
-- Text and keyword patterns within fake job descriptions  
-
----
-
 ### 💡 Key Findings  
 - **Full-time job posts** have the highest number of fraudulent listings.  
 - Fake job posts often lack a company profile or contain vague/suspicious descriptions.  
